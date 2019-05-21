@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursivo", "Recursivo\Recursivo.csproj", "{8C82169F-D8F9-4057-A225-CA74FEEF9839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{9E84C3A8-22AE-495E-9313-A608E8E29533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C82169F-D8F9-4057-A225-CA74FEEF9839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C82169F-D8F9-4057-A225-CA74FEEF9839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C82169F-D8F9-4057-A225-CA74FEEF9839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C82169F-D8F9-4057-A225-CA74FEEF9839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E84C3A8-22AE-495E-9313-A608E8E29533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E84C3A8-22AE-495E-9313-A608E8E29533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E84C3A8-22AE-495E-9313-A608E8E29533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E84C3A8-22AE-495E-9313-A608E8E29533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DC964ED-069B-4181-9504-4045A2802C3C}
+	EndGlobalSection
+EndGlobal
