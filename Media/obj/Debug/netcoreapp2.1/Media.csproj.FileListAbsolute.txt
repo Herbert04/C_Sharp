@@ -9,3 +9,14 @@ C:\Users\herbe\source\repos\Recursivo\Media\obj\Debug\netcoreapp2.1\Media.Assemb
 C:\Users\herbe\source\repos\Recursivo\Media\obj\Debug\netcoreapp2.1\Media.dll
 C:\Users\herbe\source\repos\Recursivo\Media\obj\Debug\netcoreapp2.1\Media.pdb
 C:\Users\herbe\source\repos\Recursivo\Media\obj\Debug\netcoreapp2.1\Media.csprojAssemblyReference.cache
+C:\Users\herbe\source\repos\C_Sharp\Media\bin\Debug\netcoreapp2.1\Media.deps.json
+C:\Users\herbe\source\repos\C_Sharp\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.json
+C:\Users\herbe\source\repos\C_Sharp\Media\bin\Debug\netcoreapp2.1\Media.runtimeconfig.dev.json
+C:\Users\herbe\source\repos\C_Sharp\Media\bin\Debug\netcoreapp2.1\Media.dll
+C:\Users\herbe\source\repos\C_Sharp\Media\bin\Debug\netcoreapp2.1\Media.pdb
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.csprojAssemblyReference.cache
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.csproj.CoreCompileInputs.cache
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfoInputs.cache
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.AssemblyInfo.cs
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.dll
+C:\Users\herbe\source\repos\C_Sharp\Media\obj\Debug\netcoreapp2.1\Media.pdb

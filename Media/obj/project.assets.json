@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Media\\Media.csproj",
+      "projectUniqueName": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Media\\Media.csproj",
       "projectName": "Media",
-      "projectPath": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Media\\Media.csproj",
+      "projectPath": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Media\\Media.csproj",
       "packagesPath": "C:\\Users\\herbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Media\\obj\\",
+      "outputPath": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Media\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\herbe\\source\\repos\\Recursivo\\Recursivo\\Recursivo.csproj": {}
+    "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Recursivo\\Recursivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\herbe\\source\\repos\\Recursivo\\Recursivo\\Recursivo.csproj": {
+    "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Recursivo\\Recursivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Recursivo\\Recursivo.csproj",
+        "projectUniqueName": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Recursivo\\Recursivo.csproj",
         "projectName": "Recursivo",
-        "projectPath": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Recursivo\\Recursivo.csproj",
+        "projectPath": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Recursivo\\Recursivo.csproj",
         "packagesPath": "C:\\Users\\herbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\herbe\\source\\repos\\Recursivo\\Recursivo\\obj\\",
+        "outputPath": "C:\\Users\\herbe\\source\\repos\\C_Sharp\\Recursivo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

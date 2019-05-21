@@ -14,7 +14,7 @@ namespace Media
                 lista_de_elementos.Add(4);
                 lista_de_elementos.Add(10);
                 lista_de_elementos.Add(4);
-                lista_de_elementos.Add(10);
+                
                 b.elemnto(lista_de_elementos);
               
                 

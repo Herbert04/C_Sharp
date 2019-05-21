@@ -5,32 +5,48 @@ namespace Recursivo
 {
     class Program
     {
-        static void Main2(string[] args)
+        static void Main (string[] args)
         {
-            int[] arrayNumeros = { 3, 2, 1, 7, 8, 9 };          
-            inverterNumeros(arrayNumeros,0,arrayNumeros.Length-1);
-            
-            foreach(int i in arrayNumeros)
+            List<int> lista = new List<int>();
+
+            lista.Add(3);
+            lista.Add(2);
+            lista.Add(1);
+            lista.Add(7);
+            lista.Add(8);
+            lista.Add(9);
+            lista.Add(5);
+
+                
+            Console.Write("Lista => ");
+            foreach (int i in lista)
             {
-                Console.WriteLine(i);
+                Console.Write("[" + i + "]");
+            }
+            inverterNumeros(lista,0,lista.Count-1);
+            //Console.WriteLine();
+            Console.Write("\nLista Invertida => ");
+            foreach (int i in lista)
+            {
+                Console.Write("["+i+"]");
             }
 
 
         }
 
-        private static void inverterNumeros(int[] arrayNumeros, int v1, int v2)
+        private static void inverterNumeros(List<int> lista, int v1, int v2)
         {
             if (v1 < v2) { 
-            trocarPosicao(arrayNumeros, v1, v2);
-            inverterNumeros(arrayNumeros, v1+1, v2-1);
+            trocarPosicao(lista, v1, v2);
+            inverterNumeros(lista, v1+1, v2-1);
             }
         }
 
-        private static void trocarPosicao(int[] arrayNumeros, int v1, int v2)
+        private static void trocarPosicao(List<int> lista, int v1, int v2)
         {
-            int aux = arrayNumeros[v1];
-            arrayNumeros[v1] = arrayNumeros[v2];
-            arrayNumeros[v2] = aux;
+            int aux = lista[v1];
+            lista[v1] = lista[v2];
+            lista[v2] = aux;
         }
     }
     
